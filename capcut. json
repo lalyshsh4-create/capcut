@@ -1,9 +1,15 @@
-{
-    "Title": "Update Available⚡",
-    "versionCode": "16506930",
-    "versionName": "15.6.0",
-    "updateSize": "100 MB",
-    "releaseDate": "May 5, 2025",
-    "Msg": "🎉 What's New:\n• Improved user interface\n• Added new features\n• Bug fixes and performance improvements\n• Enhanced security",
-    "downloadLink": "https://t.me/fotball_kora"
-}
+[
+  {
+    "appName": "CapCut",
+    "packageName": "com.lemon.lvoverseas",
+    "versionCode": 15702050,
+    "updateUrl": "https://t.me/fotball_kora",
+    "title": "تم تنزيل اصدار جديد v33.3.3!",
+    "description": "يتوفر تحديث جديد.\n1.تم اصلاح المشاكل\n2.القوالب وكل شيء شغال\n4.يرجى التحديث الى احدث اصدار",
+    "isForce": false,
+    "isExpired": false,
+    "expiryDate": "2029-09-01",
+    "closeButtonText": "Exit",
+    "updateButtonText": "Update Now!"
+  }
+  ]
