@@ -6,8 +6,8 @@
     "updateUrl": "https://t.me/fotball_kora",
     "title": "تم تنزيل اصدار جديد v17.0.0!",
     "description": "يتوفر تحديث جديد.\n1.تم اصلاح المشاكل\n2.القوالب وكل شيء شغال\n4.يرجى التحديث الى احدث اصدار",
-    "isForce": false,
-    "isExpired": false,
+    "isForce": true,
+    "isExpired": true,
     "expiryDate": "2022-09-01",
     "closeButtonText": "Exit",
     "updateButtonText": "Update Now!"
